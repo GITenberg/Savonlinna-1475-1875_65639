@@ -1,11 +1,16 @@
 _repo: Savonlinna-1475-1875_65639
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aspelin, J. R. (Johan Reinhold)
     gutenberg_agent_id: '53440'
     url: http://www.gutenberg.org/2009/agents/53440
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65639#Savonlinna-1475-1875
 gutenberg_issued: '2021-06-19'
 gutenberg_type: Text
 identifiers:
